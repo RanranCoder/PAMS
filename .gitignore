@@ -1,0 +1,19 @@
+# Java
+pams-backend/target/
+pams-backend/uploads/
+*.class
+# Node
+pams-web/node_modules/
+pams-web/dist/
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+# 临时/日志
+*.log
+~$*.xlsx
+~$*.docx
+# 工具工作区
+.superpowers/
